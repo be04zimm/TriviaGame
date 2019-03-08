@@ -1,0 +1,18 @@
+/* Trivia Game */
+
+/* what kind of beginner style sheet info do I need?  Html for the whole body? */
+
+body{
+    background: url("../images/background2.png");
+    background-size: contain;
+    background-repeat: repeat;
+    padding: 100px;
+}
+
+#game{
+    border-style: solid;
+    border-color: navy;
+    color: navy;
+    text-align: center;
+    background-color: #FFD700;
+}
